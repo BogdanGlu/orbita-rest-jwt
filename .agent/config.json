@@ -1,0 +1,7 @@
+﻿{
+  "project": "orbita",
+  "base_repo": "https://github.com/fastapi/full-stack-fastapi-template",
+  "models_used": ["Qwen3.8", "Qwen4-Max"],
+  "mode": "chat",
+  "tools": ["браузер", "PowerShell", "Docker Desktop", "VS Code"]
+}

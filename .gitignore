@@ -1,0 +1,14 @@
+﻿node_modules/
+dist/
+build/
+.venv/
+__pycache__/
+*.pyc
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+# .env оставлен намеренно: учебные демо-значения, нужны для запуска
